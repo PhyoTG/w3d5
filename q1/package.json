@@ -1,0 +1,15 @@
+{
+  "name": "w3d5q1",
+  "version": "0.0.1",
+  "description": "WAP W3D5 q1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hey": "node index.js"
+  },
+  "author": "Phyo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
